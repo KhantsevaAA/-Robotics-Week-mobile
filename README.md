@@ -1,6 +1,6 @@
 # 🤖 misis_robolab — Решение хакатона по мобильным ROS2-роботам
 
-[![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=flat-square&logo=ros)](https://docs.ros.org/en/humble/)
+[![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?style=flat-square&logo=ros)](https://docs.ros.org/en/jazzy/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
 [![YOLO](https://img.shields.io/badge/YOLO-v8-00FFFF?style=flat-square)](https://ultralytics.com/)
@@ -36,7 +36,7 @@
 ### Зависимости
 
 - Ubuntu 22.04
-- [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html)
+- ROS2 Jazzy
 - Python 3.10+
 - OpenCV 4.x
 - Ultralytics YOLOv8
@@ -95,7 +95,7 @@ ros2 run vision_node vision_node
 
 | Категория | Инструменты |
 |---|---|
-| Фреймворк робота | ROS2 Humble |
+| Фреймворк робота | ROS2 Jazzy |
 | Язык программирования | Python 3.10 |
 | Компьютерное зрение | OpenCV 4.x, ArUco |
 | Детекция объектов | Ultralytics YOLOv8 |
@@ -110,7 +110,7 @@ ros2 run vision_node vision_node
 Команда **misis_robolab** — участники хакатона [MISIS Robotics Week 2026](https://misis.ru/events/6739/), 🥉 3 место.
 
 | Участник | Роль 
-|---|---|---|
+|---|---
 | Ханцева Анастасия Алексеевна | Инженер-конструктор
 | Егорова Кристина Игоревна | Специалисть по YOLO
 | Зухурова Адиля Махмуджоновна | ROS разработчик
